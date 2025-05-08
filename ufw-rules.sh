@@ -57,6 +57,8 @@ sudo ufw deny from 91.92.40.0/22
 sudo ufw deny from 94.131.100.0/24
 sudo ufw deny from 97.112.0.0/12
 sudo ufw deny from 97.80.0.0/12
+sudo ufw deny from 146.70.134.0/24
+sudo ufw deny from 195.154.0.0/16
 
 ######################################################
 # allow section
